@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+#bottom{
+    background: linear-gradient(transparent,black);
+}
+
+*{
+    font-family: 'helvetica neue';
+}
+
+:root{
+--c1: rgb(15, 15, 20);       /* near-black page bg */
+--c2: rgb(22, 22, 30);       /* navbar / card surface */
+--c3: rgb(99, 102, 241);     /* indigo accent */
+--c4: rgb(255, 255, 255);    /* primary text / buttons */
+}
